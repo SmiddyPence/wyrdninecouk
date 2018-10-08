@@ -32,3 +32,7 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+
+# Icons From:
+
+https://www.flaticon.com
